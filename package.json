@@ -1,0 +1,67 @@
+{
+  "name": "ccg",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@hookform/error-message": "^2.0.0",
+    "@hookform/resolvers": "^2.9.8",
+    "@mui/base": "^5.0.0-alpha.101",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "bootstrap-icons": "^1.9.1",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-admin": "^4.3.3",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.35.0",
+    "react-hook-form-resolvers": "^0.0.1",
+    "react-icons": "^4.4.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-loading-icons": "^1.1.0",
+    "react-modal": "^3.15.1",
+    "react-number-format": "^5.0.0-beta.4",
+    "react-phone-input-2": "^2.15.1",
+    "react-phone-number-input": "^3.2.12",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.5.2",
+    "react-select-country-list": "^2.2.3",
+    "react-table": "^7.8.0",
+    "react-toastify": "^9.0.8",
+    "react-tooltip": "^4.2.21",
+    "uuid": "^9.0.0",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
